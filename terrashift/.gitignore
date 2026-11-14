@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+terrashift/data/*.sqlite3
+terrashift/data/cache/
